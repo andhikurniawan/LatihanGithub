@@ -9,7 +9,7 @@
             <form style="margin-top:20px; width:50%" action="<?= base_url('user/search_divisi'); ?>" method="POST">
                 <div class="input-group mb-3">
                     <select class="form-control" name="divisi" id="divisi" required>
-                        <option value="">No Selected</option>
+                        <option value="">No Selected !!</option>
                         <option value="1">SDM01</option>
                         <option value="2">PRC02</option>
                         <option value="3">WRH03</option>
