@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('title', 'Assessment Session')
+@section('title', 'Assessment Session!!!!!!!')
 
 @section('SesiAssessment', 'active')
 @switch(session('permission'))
